@@ -1,0 +1,1 @@
+{"max_hin_len": 32, "max_eng_len": 53, "vocab_eng_size": 27870, "vocab_hin_size": 27870, "units": 1024, "embedding_dim": 256, "bs": 64}

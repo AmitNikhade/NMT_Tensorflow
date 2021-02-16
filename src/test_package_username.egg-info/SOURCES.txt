@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/__init__.py
+src/main.py
+src/train.py
+test_package_username.egg-info/PKG-INFO
+test_package_username.egg-info/SOURCES.txt
+test_package_username.egg-info/dependency_links.txt
+test_package_username.egg-info/top_level.txt
